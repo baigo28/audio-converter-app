@@ -1,0 +1,5 @@
+Flask
+sentence-transformers
+accelerate
+torch
+gunicorn
